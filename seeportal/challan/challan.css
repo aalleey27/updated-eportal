@@ -1,0 +1,17 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    /* box-sizing: border-box; */
+    
+}
+
+.downloadc {
+    display: flex ;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-top: 10%;
+}
+
+.uploadc {
+    height: 20%;
+}
